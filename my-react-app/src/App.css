@@ -1,0 +1,123 @@
+.jobBoard {
+  border: 10px solid red;
+  margin-top: 20px;
+  width: 1200px;
+  margin-left: 100px;
+  margin-bottom: 30px;
+  background-color: antiquewhite;
+}
+
+body {
+  background-color: grey;
+}
+
+h2 {
+  margin-bottom: 100px;
+}
+
+.edgeOne {
+  width: 175px;
+  border: 10px solid red;
+  margin-top: 20px;
+  height: 150px;
+  margin-left: 30px;
+}
+
+.edgeTwo {
+  border: 10px solid green;
+  height: 150px;
+  margin-top: 20px;
+  margin-left: 50px;
+}
+
+.edgeThree {
+  border: 10px solid yellow;
+  height: 150px;
+  margin-top: 20px;
+  margin-left: 50px;
+}
+
+h1 {
+  text-align: center;
+  line-height: 30px;
+  color: white;
+  background-color: black;
+}
+
+span {
+  display: flex;
+  justify-content: center;
+}
+
+.edges {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-top: 30px;
+}
+
+.edgeTwo h2 {
+  margin-bottom: 120px;
+}
+
+.edgeThree h2 {
+  margin-bottom: 120px;
+}
+
+.edgesTwo {
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-bottom: 30px;
+}
+
+.edgeFour {
+  margin-right: 45px;
+  border: 10px solid cyan;
+  height: 150px;
+  width: 175px;
+  margin-left: 30px;
+}
+
+.edgeFour h2 {
+  margin-bottom: 120px;
+  display: flex;
+  justify-content: center;
+}
+
+.edgeFive {
+  margin-right: 55px;
+  border: 10px solid pink;
+  height: 150px;
+  width: 175px;
+  margin-left: 1px;
+}
+
+.edgeFive h2 {
+  margin-bottom: 120px;
+  display: flex;
+  justify-content: center;
+}
+
+.edgeSix {
+  width: 175px;
+  border: 10px solid red;
+  margin-right: 19;
+  height: 150px;
+  margin-left: px;
+}
+
+.edgeSix h2 {
+  margin-bottom: 120px;
+  display: flex;
+  justify-content: center;
+}
+
+footer {
+  background-color: cornflowerblue;
+  color: lightgreen;
+  margin-top: 50px;
+  display: flex;
+  justify-content: center;
+}
