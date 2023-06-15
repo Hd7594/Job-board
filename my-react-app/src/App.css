@@ -4,11 +4,11 @@
   width: 1200px;
   margin-left: 100px;
   margin-bottom: 30px;
-  background-color: antiquewhite;
+  background-color: lightgray;
 }
 
 body {
-  background-color: grey;
+  background-color: burlywood;
 }
 
 h2 {
@@ -115,8 +115,8 @@ span {
 }
 
 footer {
-  background-color: cornflowerblue;
-  color: lightgreen;
+  background-color: gold;
+  color: black;
   margin-top: 50px;
   display: flex;
   justify-content: center;
